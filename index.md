@@ -1,3 +1,3 @@
-# global warming
-# ozone 
-# climate change
+# GitHub
+# Yaktocat
+![Image of yaktocat](https://octodex.github.com/images/yaktocat.png)
